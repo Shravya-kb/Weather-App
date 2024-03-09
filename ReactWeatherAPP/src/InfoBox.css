@@ -1,0 +1,11 @@
+.InfoBox{
+  text-align: center;
+}
+.CardContainer{
+  display: flex;
+  justify-content: center;
+  border-radius: 2px solid black;
+}
+/* .Card{
+border-radius: 2px solid black;
+} */
